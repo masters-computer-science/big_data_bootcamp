@@ -1,5 +1,8 @@
 # big_data_bootcamp
 
+## Course Details
+https://www.omscs.gatech.edu/cse-8803-special-topics-big-data-for-health-informatics
+
 ## Setup virtual Environments
 http://www.sunlab.org/teaching/cse8803/fall2016/lab/environment/
 
